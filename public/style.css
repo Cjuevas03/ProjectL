@@ -1,0 +1,23 @@
+body{
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+
+.sidebar{
+  float: left;
+  height: 999px;
+  width: 5%;
+  border: 1px solid black;
+}
+.header{
+  float: left;
+  height: 75px;
+  width: 95%;
+  border: 1px solid brown;
+}
+.container{
+  float: left;
+  padding-left: 139px;
+}
